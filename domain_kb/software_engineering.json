@@ -1,0 +1,518 @@
+{
+ "domain": "software_engineering",
+ "title": "Software engineering and DevOps",
+ "description": "Engineering stand-ups, sprint planning, incident reviews and architecture discussions.",
+ "cues": [
+  "deploy",
+  "server",
+  "api",
+  "backend",
+  "frontend",
+  "database",
+  "sprint",
+  "pull request",
+  "repo",
+  "commit",
+  "bug",
+  "docker",
+  "cluster",
+  "latency",
+  "endpoint",
+  "microservice",
+  "staging",
+  "rollback",
+  "code review",
+  "refactor",
+  "unit test",
+  "kubernetes",
+  "github",
+  "devops",
+  "ci"
+ ],
+ "terms": [
+  {
+   "term": "Kubernetes",
+   "expansion": "container orchestration platform",
+   "aliases": [
+    "cooper netties",
+    "cooper nettis",
+    "kuber netties",
+    "kubernetties",
+    "cube er netties",
+    "coober netties",
+    "kubernetis",
+    "cuber netties"
+   ]
+  },
+  {
+   "term": "kubectl",
+   "expansion": "Kubernetes command-line tool",
+   "aliases": [
+    "cube control",
+    "cube cuddle",
+    "cube c t l",
+    "kube control",
+    "kube cuddle"
+   ]
+  },
+  {
+   "term": "Docker"
+  },
+  {
+   "term": "PostgreSQL",
+   "expansion": "relational database, often just 'Postgres'",
+   "aliases": [
+    "postgres sequel",
+    "post gress",
+    "post gres",
+    "postgres q l",
+    "postgres s q l",
+    "postgress"
+   ]
+  },
+  {
+   "term": "SQL",
+   "expansion": "Structured Query Language",
+   "aliases": [
+    "sequel",
+    "s q l",
+    "es queue el"
+   ]
+  },
+  {
+   "term": "NoSQL",
+   "aliases": [
+    "no sequel",
+    "no s q l"
+   ]
+  },
+  {
+   "term": "MySQL",
+   "aliases": [
+    "my sequel",
+    "my s q l"
+   ]
+  },
+  {
+   "term": "SQLite",
+   "aliases": [
+    "sequel lite",
+    "s q lite",
+    "sea quill lite"
+   ]
+  },
+  {
+   "term": "Redis",
+   "expansion": "in-memory data store",
+   "aliases": [
+    "reddis",
+    "red is",
+    "redus",
+    "red iss"
+   ]
+  },
+  {
+   "term": "GraphQL",
+   "aliases": [
+    "graph q l",
+    "graph ql",
+    "graph queue el"
+   ]
+  },
+  {
+   "term": "OAuth",
+   "expansion": "authorization protocol",
+   "aliases": [
+    "o auth",
+    "oh auth",
+    "o off"
+   ]
+  },
+  {
+   "term": "JWT",
+   "expansion": "JSON Web Token",
+   "aliases": [
+    "j w t",
+    "jot"
+   ]
+  },
+  {
+   "term": "JSON",
+   "expansion": "JavaScript Object Notation",
+   "aliases": [
+    "jason",
+    "j son",
+    "jay son"
+   ]
+  },
+  {
+   "term": "YAML",
+   "aliases": [
+    "yammer",
+    "yamel",
+    "y a m l",
+    "yammel"
+   ]
+  },
+  {
+   "term": "CI/CD",
+   "expansion": "continuous integration and continuous delivery",
+   "aliases": [
+    "c i c d",
+    "see eye see dee",
+    "ci slash cd"
+   ]
+  },
+  {
+   "term": "GitHub",
+   "aliases": [
+    "get hub",
+    "git hub"
+   ]
+  },
+  {
+   "term": "GitLab",
+   "aliases": [
+    "get lab",
+    "git lab"
+   ]
+  },
+  {
+   "term": "Terraform",
+   "expansion": "infrastructure-as-code tool",
+   "aliases": [
+    "tear a form",
+    "terra form",
+    "terror form"
+   ]
+  },
+  {
+   "term": "Ansible",
+   "aliases": [
+    "an sible"
+   ]
+  },
+  {
+   "term": "Jenkins"
+  },
+  {
+   "term": "Kafka",
+   "aliases": [
+    "calf ka",
+    "cough ka"
+   ]
+  },
+  {
+   "term": "RabbitMQ",
+   "aliases": [
+    "rabbit m q",
+    "rabbit mq",
+    "rabbit em queue"
+   ]
+  },
+  {
+   "term": "Nginx",
+   "expansion": "web server / reverse proxy",
+   "aliases": [
+    "engine x",
+    "engine ex",
+    "n jinx"
+   ]
+  },
+  {
+   "term": "Grafana",
+   "aliases": [
+    "gra fauna",
+    "grow fauna",
+    "graph ana",
+    "gra fana"
+   ]
+  },
+  {
+   "term": "Prometheus",
+   "expansion": "monitoring system"
+  },
+  {
+   "term": "Elasticsearch",
+   "aliases": [
+    "elastic search"
+   ]
+  },
+  {
+   "term": "MongoDB",
+   "aliases": [
+    "mongo d b",
+    "mongo db",
+    "mongo dee bee"
+   ]
+  },
+  {
+   "term": "TypeScript",
+   "aliases": [
+    "type script"
+   ]
+  },
+  {
+   "term": "JavaScript",
+   "aliases": [
+    "java script"
+   ]
+  },
+  {
+   "term": "Node.js",
+   "aliases": [
+    "node j s",
+    "no js",
+    "node dot js"
+   ]
+  },
+  {
+   "term": "Next.js",
+   "aliases": [
+    "next j s",
+    "next dot js"
+   ]
+  },
+  {
+   "term": "FastAPI",
+   "aliases": [
+    "fast a p i",
+    "fast api"
+   ]
+  },
+  {
+   "term": "REST API",
+   "aliases": [
+    "rest a p i",
+    "res api"
+   ]
+  },
+  {
+   "term": "gRPC",
+   "aliases": [
+    "g r p c",
+    "gee rpc",
+    "g rpc"
+   ]
+  },
+  {
+   "term": "WebSocket",
+   "aliases": [
+    "web socket"
+   ]
+  },
+  {
+   "term": "S3",
+   "expansion": "Amazon Simple Storage Service",
+   "aliases": [
+    "s three",
+    "s 3"
+   ]
+  },
+  {
+   "term": "EC2",
+   "expansion": "Amazon Elastic Compute Cloud",
+   "aliases": [
+    "e c two",
+    "ec two",
+    "e c 2"
+   ]
+  },
+  {
+   "term": "AWS",
+   "expansion": "Amazon Web Services",
+   "aliases": [
+    "a w s"
+   ]
+  },
+  {
+   "term": "GCP",
+   "expansion": "Google Cloud Platform",
+   "aliases": [
+    "g c p"
+   ]
+  },
+  {
+   "term": "CDN",
+   "expansion": "content delivery network",
+   "aliases": [
+    "c d n"
+   ]
+  },
+  {
+   "term": "DNS",
+   "expansion": "domain name system",
+   "aliases": [
+    "d n s"
+   ]
+  },
+  {
+   "term": "TLS",
+   "expansion": "Transport Layer Security",
+   "aliases": [
+    "t l s"
+   ]
+  },
+  {
+   "term": "VPN",
+   "aliases": [
+    "v p n"
+   ]
+  },
+  {
+   "term": "SLA",
+   "expansion": "service level agreement",
+   "aliases": [
+    "s l a"
+   ]
+  },
+  {
+   "term": "SLO",
+   "expansion": "service level objective",
+   "aliases": [
+    "s l o"
+   ]
+  },
+  {
+   "term": "API",
+   "expansion": "application programming interface",
+   "aliases": [
+    "a p i"
+   ]
+  },
+  {
+   "term": "SDK",
+   "expansion": "software development kit",
+   "aliases": [
+    "s d k"
+   ]
+  },
+  {
+   "term": "CLI",
+   "expansion": "command-line interface",
+   "aliases": [
+    "c l i"
+   ]
+  },
+  {
+   "term": "UI",
+   "expansion": "user interface",
+   "aliases": [
+    "u i"
+   ]
+  },
+  {
+   "term": "UX",
+   "expansion": "user experience",
+   "aliases": [
+    "u x"
+   ]
+  },
+  {
+   "term": "PagerDuty",
+   "aliases": [
+    "pager duty"
+   ]
+  },
+  {
+   "term": "Jira",
+   "aliases": [
+    "gira",
+    "jeera",
+    "jerra"
+   ]
+  },
+  {
+   "term": "Datadog",
+   "aliases": [
+    "data dog"
+   ]
+  },
+  {
+   "term": "Airflow",
+   "aliases": [
+    "air flow"
+   ]
+  },
+  {
+   "term": "dbt",
+   "expansion": "data build tool",
+   "aliases": [
+    "d b t"
+   ]
+  },
+  {
+   "term": "Snowflake"
+  },
+  {
+   "term": "hotfix",
+   "aliases": [
+    "hot fix"
+   ]
+  },
+  {
+   "term": "feature flag"
+  },
+  {
+   "term": "LGTM",
+   "expansion": "looks good to me",
+   "aliases": [
+    "l g t m"
+   ]
+  },
+  {
+   "term": "idempotent",
+   "aliases": [
+    "i dempotent",
+    "idem potent",
+    "item potent"
+   ]
+  },
+  {
+   "term": "regex",
+   "expansion": "regular expression",
+   "aliases": [
+    "reg ex",
+    "rej ex"
+   ]
+  },
+  {
+   "term": "microservices",
+   "aliases": [
+    "micro services"
+   ]
+  },
+  {
+   "term": "observability"
+  },
+  {
+   "term": "VS Code",
+   "expansion": "Visual Studio Code",
+   "aliases": [
+    "v s code",
+    "vs coat"
+   ]
+  },
+  {
+   "term": "Helm",
+   "expansion": "Kubernetes package manager"
+  },
+  {
+   "term": "Istio",
+   "aliases": [
+    "east io",
+    "is tio"
+   ]
+  },
+  {
+   "term": "serverless",
+   "aliases": [
+    "server less"
+   ]
+  },
+  {
+   "term": "tech debt",
+   "expansion": "technical debt"
+  }
+ ]
+}

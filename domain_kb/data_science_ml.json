@@ -1,0 +1,308 @@
+{
+ "domain": "data_science_ml",
+ "title": "Data science and machine learning",
+ "description": "ML projects, model training and evaluation, data pipelines and research reviews.",
+ "cues": [
+  "model",
+  "dataset",
+  "training",
+  "accuracy",
+  "precision",
+  "recall",
+  "machine learning",
+  "neural",
+  "embedding",
+  "fine tuning",
+  "inference",
+  "gpu",
+  "epoch",
+  "feature",
+  "transformer",
+  "classification",
+  "regression",
+  "overfitting",
+  "validation",
+  "hyperparameter",
+  "loss",
+  "gradient",
+  "tokenizer",
+  "llm",
+  "benchmark"
+ ],
+ "terms": [
+  {
+   "term": "PyTorch",
+   "aliases": [
+    "pie torch",
+    "pi torch",
+    "py torch",
+    "pie tortch"
+   ]
+  },
+  {
+   "term": "TensorFlow",
+   "aliases": [
+    "tensor flow"
+   ]
+  },
+  {
+   "term": "scikit-learn",
+   "aliases": [
+    "psychic learn",
+    "sci kit learn",
+    "sy kit learn",
+    "sike it learn",
+    "cyclone learn"
+   ]
+  },
+  {
+   "term": "NumPy",
+   "aliases": [
+    "num pie",
+    "numb pie",
+    "num pi"
+   ]
+  },
+  {
+   "term": "pandas"
+  },
+  {
+   "term": "Jupyter",
+   "aliases": [
+    "jupiter"
+   ]
+  },
+  {
+   "term": "Hugging Face",
+   "aliases": [
+    "hugging phase"
+   ]
+  },
+  {
+   "term": "BERT",
+   "aliases": [
+    "bird"
+   ]
+  },
+  {
+   "term": "GPT",
+   "aliases": [
+    "g p t"
+   ]
+  },
+  {
+   "term": "LLM",
+   "expansion": "large language model",
+   "aliases": [
+    "l l m",
+    "el el em"
+   ]
+  },
+  {
+   "term": "RAG",
+   "expansion": "retrieval-augmented generation",
+   "aliases": [
+    "r a g"
+   ]
+  },
+  {
+   "term": "embeddings",
+   "aliases": [
+    "in beddings"
+   ]
+  },
+  {
+   "term": "hyperparameter",
+   "aliases": [
+    "hyper parameter",
+    "hyper parameters"
+   ]
+  },
+  {
+   "term": "overfitting",
+   "aliases": [
+    "over fitting"
+   ]
+  },
+  {
+   "term": "F1 score",
+   "aliases": [
+    "f one score",
+    "f 1 score"
+   ]
+  },
+  {
+   "term": "ROC AUC",
+   "aliases": [
+    "rock auc",
+    "r o c a u c",
+    "roc a u c",
+    "rock a u c"
+   ]
+  },
+  {
+   "term": "XGBoost",
+   "aliases": [
+    "x g boost",
+    "extra boost",
+    "x g b boost"
+   ]
+  },
+  {
+   "term": "LightGBM",
+   "aliases": [
+    "light g b m",
+    "light gbm",
+    "light g bm"
+   ]
+  },
+  {
+   "term": "CNN",
+   "expansion": "convolutional neural network",
+   "aliases": [
+    "c n n"
+   ]
+  },
+  {
+   "term": "RNN",
+   "expansion": "recurrent neural network",
+   "aliases": [
+    "r n n"
+   ]
+  },
+  {
+   "term": "LSTM",
+   "expansion": "long short-term memory",
+   "aliases": [
+    "l s t m"
+   ]
+  },
+  {
+   "term": "PCA",
+   "expansion": "principal component analysis",
+   "aliases": [
+    "p c a"
+   ]
+  },
+  {
+   "term": "t-SNE",
+   "aliases": [
+    "t s n e",
+    "tee snee"
+   ]
+  },
+  {
+   "term": "WER",
+   "expansion": "word error rate",
+   "aliases": [
+    "w e r"
+   ]
+  },
+  {
+   "term": "Whisper",
+   "expansion": "OpenAI speech-recognition model"
+  },
+  {
+   "term": "pyannote",
+   "expansion": "speaker diarization toolkit",
+   "aliases": [
+    "pie annotate",
+    "pi a note",
+    "pie a note",
+    "pyannotate"
+   ]
+  },
+  {
+   "term": "diarization",
+   "expansion": "who spoke when",
+   "aliases": [
+    "dire ization",
+    "diarisation",
+    "dire is ation",
+    "diar ization",
+    "dye ariz ation"
+   ]
+  },
+  {
+   "term": "CUDA",
+   "aliases": [
+    "coo da"
+   ]
+  },
+  {
+   "term": "GPU",
+   "aliases": [
+    "g p u"
+   ]
+  },
+  {
+   "term": "TPU",
+   "aliases": [
+    "t p u"
+   ]
+  },
+  {
+   "term": "MLOps",
+   "aliases": [
+    "m l ops"
+   ]
+  },
+  {
+   "term": "A/B test",
+   "aliases": [
+    "a slash b test"
+   ]
+  },
+  {
+   "term": "backpropagation",
+   "aliases": [
+    "back propagation"
+   ]
+  },
+  {
+   "term": "softmax",
+   "aliases": [
+    "soft max"
+   ]
+  },
+  {
+   "term": "ReLU",
+   "aliases": [
+    "re lu",
+    "ray loo"
+   ]
+  },
+  {
+   "term": "LoRA",
+   "expansion": "low-rank adaptation",
+   "aliases": [
+    "laura",
+    "l o r a"
+   ]
+  },
+  {
+   "term": "vLLM",
+   "aliases": [
+    "v l l m"
+   ]
+  },
+  {
+   "term": "quantization",
+   "aliases": [
+    "quantisation"
+   ]
+  },
+  {
+   "term": "tokenizer",
+   "aliases": [
+    "token izer"
+   ]
+  },
+  {
+   "term": "gradient descent"
+  },
+  {
+   "term": "precision and recall"
+  }
+ ]
+}

@@ -1,0 +1,275 @@
+{
+ "domain": "business_finance",
+ "title": "Business, finance and product management",
+ "description": "Planning, budgeting, sales, product and strategy meetings.",
+ "cues": [
+  "revenue",
+  "quarter",
+  "budget",
+  "forecast",
+  "stakeholder",
+  "margin",
+  "customer",
+  "roadmap",
+  "headcount",
+  "vendor",
+  "contract",
+  "profit",
+  "fiscal",
+  "invoice",
+  "pricing",
+  "sales",
+  "marketing",
+  "growth",
+  "strategy",
+  "deliverable",
+  "milestone",
+  "okr",
+  "kpi"
+ ],
+ "terms": [
+  {
+   "term": "OKRs",
+   "expansion": "objectives and key results",
+   "aliases": [
+    "o k rs",
+    "okay ours",
+    "o k r s",
+    "oh kay ours",
+    "okay r s"
+   ]
+  },
+  {
+   "term": "KPI",
+   "expansion": "key performance indicator",
+   "aliases": [
+    "k p i",
+    "kay pee eye"
+   ]
+  },
+  {
+   "term": "ROI",
+   "expansion": "return on investment",
+   "aliases": [
+    "r o i"
+   ]
+  },
+  {
+   "term": "EBITDA",
+   "expansion": "earnings before interest, taxes, depreciation and amortization",
+   "aliases": [
+    "ebit da",
+    "e bit da",
+    "ebit d a",
+    "e b i t d a"
+   ]
+  },
+  {
+   "term": "ARR",
+   "expansion": "annual recurring revenue",
+   "aliases": [
+    "a r r"
+   ]
+  },
+  {
+   "term": "MRR",
+   "expansion": "monthly recurring revenue",
+   "aliases": [
+    "m r r"
+   ]
+  },
+  {
+   "term": "CAC",
+   "expansion": "customer acquisition cost",
+   "aliases": [
+    "c a c"
+   ]
+  },
+  {
+   "term": "LTV",
+   "expansion": "customer lifetime value",
+   "aliases": [
+    "l t v"
+   ]
+  },
+  {
+   "term": "burn rate"
+  },
+  {
+   "term": "P&L",
+   "expansion": "profit and loss",
+   "aliases": [
+    "p and l",
+    "p n l"
+   ]
+  },
+  {
+   "term": "CAPEX",
+   "expansion": "capital expenditure",
+   "aliases": [
+    "cap ex"
+   ]
+  },
+  {
+   "term": "OPEX",
+   "expansion": "operating expenditure",
+   "aliases": [
+    "op ex"
+   ]
+  },
+  {
+   "term": "YoY",
+   "expansion": "year over year",
+   "aliases": [
+    "y o y",
+    "year on year"
+   ]
+  },
+  {
+   "term": "QoQ",
+   "expansion": "quarter over quarter",
+   "aliases": [
+    "q o q"
+   ]
+  },
+  {
+   "term": "B2B",
+   "aliases": [
+    "b to b",
+    "b two b"
+   ]
+  },
+  {
+   "term": "B2C",
+   "aliases": [
+    "b to c",
+    "b two c"
+   ]
+  },
+  {
+   "term": "SaaS",
+   "expansion": "software as a service",
+   "aliases": [
+    "sass",
+    "s a a s"
+   ]
+  },
+  {
+   "term": "MVP",
+   "expansion": "minimum viable product",
+   "aliases": [
+    "m v p"
+   ]
+  },
+  {
+   "term": "POC",
+   "expansion": "proof of concept",
+   "aliases": [
+    "p o c"
+   ]
+  },
+  {
+   "term": "RFP",
+   "expansion": "request for proposal",
+   "aliases": [
+    "r f p"
+   ]
+  },
+  {
+   "term": "SOW",
+   "expansion": "statement of work",
+   "aliases": [
+    "s o w"
+   ]
+  },
+  {
+   "term": "NDA",
+   "expansion": "non-disclosure agreement",
+   "aliases": [
+    "n d a"
+   ]
+  },
+  {
+   "term": "due diligence"
+  },
+  {
+   "term": "term sheet"
+  },
+  {
+   "term": "cap table"
+  },
+  {
+   "term": "KYC",
+   "expansion": "know your customer",
+   "aliases": [
+    "k y c"
+   ]
+  },
+  {
+   "term": "AML",
+   "expansion": "anti-money laundering",
+   "aliases": [
+    "a m l"
+   ]
+  },
+  {
+   "term": "GDPR",
+   "aliases": [
+    "g d p r"
+   ]
+  },
+  {
+   "term": "SOC 2",
+   "aliases": [
+    "sock two",
+    "soc two",
+    "sock 2",
+    "sock to"
+   ]
+  },
+  {
+   "term": "HIPAA",
+   "aliases": [
+    "hip a",
+    "hippa"
+   ]
+  },
+  {
+   "term": "headcount",
+   "aliases": [
+    "head count"
+   ]
+  },
+  {
+   "term": "TAM",
+   "expansion": "total addressable market",
+   "aliases": [
+    "t a m"
+   ]
+  },
+  {
+   "term": "NPS",
+   "expansion": "net promoter score",
+   "aliases": [
+    "n p s"
+   ]
+  },
+  {
+   "term": "CRM",
+   "expansion": "customer relationship management",
+   "aliases": [
+    "c r m"
+   ]
+  },
+  {
+   "term": "ERP",
+   "expansion": "enterprise resource planning",
+   "aliases": [
+    "e r p"
+   ]
+  },
+  {
+   "term": "gross margin"
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "domain": "formal_meeting_procedure",
+ "title": "Formal meeting procedure",
+ "description": "Boards, committees and councils run by motions, resolutions and votes (Robert's Rules of Order).",
+ "cues": [
+  "agenda",
+  "minutes",
+  "motion",
+  "mover",
+  "seconder",
+  "carried",
+  "unanimous",
+  "quorum",
+  "adjourn",
+  "adjournment",
+  "call to order",
+  "resolution",
+  "be it resolved",
+  "show of hands",
+  "in favour",
+  "in favor",
+  "point of order",
+  "amendment",
+  "consent agenda",
+  "tabled",
+  "abstain",
+  "chair"
+ ],
+ "terms": [
+  {
+   "term": "seconder",
+   "expansion": "person who seconds a motion",
+   "aliases": [
+    "second her",
+    "second or"
+   ]
+  },
+  {
+   "term": "consent agenda",
+   "expansion": "routine items approved together in one vote",
+   "aliases": [
+    "content agenda",
+    "consent a genda"
+   ]
+  },
+  {
+   "term": "quorum",
+   "expansion": "minimum number of members needed to hold a valid vote",
+   "aliases": [
+    "choir um",
+    "core um",
+    "quorom",
+    "quorem",
+    "core rum"
+   ]
+  },
+  {
+   "term": "adjournment",
+   "expansion": "formal end of the meeting",
+   "aliases": [
+    "a journment",
+    "adjourn ment"
+   ]
+  },
+  {
+   "term": "be it resolved",
+   "expansion": "standard opening of a written resolution"
+  },
+  {
+   "term": "in camera",
+   "expansion": "closed session",
+   "aliases": [
+    "in camra",
+    "in cameras"
+   ]
+  },
+  {
+   "term": "point of order",
+   "expansion": "procedural objection"
+  },
+  {
+   "term": "abstain",
+   "expansion": "decline to vote",
+   "aliases": [
+    "ab stain",
+    "a stain"
+   ]
+  },
+  {
+   "term": "recuse",
+   "expansion": "step aside because of a conflict of interest",
+   "aliases": [
+    "re cuse",
+    "recues",
+    "re queues"
+   ]
+  },
+  {
+   "term": "ex officio",
+   "expansion": "member by virtue of office",
+   "aliases": [
+    "ex a fisheo",
+    "x officio"
+   ]
+  },
+  {
+   "term": "Robert's Rules of Order",
+   "aliases": [
+    "roberts rules of order",
+    "robert rules of order"
+   ]
+  },
+  {
+   "term": "tabled",
+   "expansion": "postponed or set aside a motion"
+  },
+  {
+   "term": "unanimous",
+   "expansion": "everyone in agreement"
+  }
+ ]
+}

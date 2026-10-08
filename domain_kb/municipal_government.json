@@ -1,0 +1,215 @@
+{
+ "domain": "municipal_government",
+ "title": "Municipal government and council business",
+ "description": "Local-government council meetings: bylaws, resolutions, ward funds, assessment appeals, planning, Canadian municipal associations and land acknowledgements.",
+ "cues": [
+  "council",
+  "mayor",
+  "reeve",
+  "municipality",
+  "municipal",
+  "ward",
+  "bylaw",
+  "public hearing",
+  "zoning",
+  "mill rate",
+  "assessment",
+  "deputy mayor",
+  "chief administrative officer",
+  "delegation",
+  "appropriation",
+  "tax sale",
+  "development plan",
+  "infrastructure",
+  "conditional use",
+  "variance"
+ ],
+ "terms": [
+  {
+   "term": "RM",
+   "expansion": "Rural Municipality",
+   "aliases": [
+    "army",
+    "r m",
+    "are m"
+   ],
+   "note": "prairie-province rural municipality, e.g. 'RM of Springfield'"
+  },
+  {
+   "term": "CAO",
+   "expansion": "Chief Administrative Officer",
+   "aliases": [
+    "ceo",
+    "c a o",
+    "see a o"
+   ],
+   "note": "senior municipal administrator who reports to council"
+  },
+  {
+   "term": "Board of Revision",
+   "expansion": "property assessment appeals board",
+   "aliases": [
+    "border revision",
+    "board revision",
+    "order provision",
+    "border provision",
+    "board of provision"
+   ]
+  },
+  {
+   "term": "ward appropriations",
+   "expansion": "discretionary funds allocated to each ward",
+   "aliases": [
+    "board appropriations",
+    "word appropriations"
+   ]
+  },
+  {
+   "term": "Councillor",
+   "expansion": "elected member of a municipal council (Canadian spelling)",
+   "aliases": [
+    "counselor",
+    "councilor",
+    "council or"
+   ]
+  },
+  {
+   "term": "Deputy Mayor",
+   "aliases": [
+    "deputy mare"
+   ]
+  },
+  {
+   "term": "Reeve",
+   "expansion": "head of an RM council",
+   "aliases": [
+    "reef",
+    "reave"
+   ]
+  },
+  {
+   "term": "bylaw",
+   "expansion": "local law passed by council",
+   "aliases": [
+    "by law",
+    "buy law",
+    "bi law"
+   ]
+  },
+  {
+   "term": "letter of concurrence",
+   "expansion": "council's formal agreement to a proposal, e.g. a tower"
+  },
+  {
+   "term": "conditional use",
+   "expansion": "land use allowed only under conditions",
+   "aliases": [
+    "conditional youth"
+   ]
+  },
+  {
+   "term": "variance",
+   "expansion": "approved exception to a zoning rule",
+   "aliases": [
+    "variants"
+   ]
+  },
+  {
+   "term": "rezoning",
+   "aliases": [
+    "re zoning"
+   ]
+  },
+  {
+   "term": "mill rate",
+   "expansion": "property-tax rate",
+   "aliases": [
+    "meal rate",
+    "mil rate"
+   ]
+  },
+  {
+   "term": "tax sale",
+   "expansion": "sale of property for unpaid taxes"
+  },
+  {
+   "term": "public hearing",
+   "expansion": "formal hearing before a decision"
+  },
+  {
+   "term": "AMM",
+   "expansion": "Association of Manitoba Municipalities",
+   "aliases": [
+    "a m m",
+    "a m and m"
+   ]
+  },
+  {
+   "term": "FCM",
+   "expansion": "Federation of Canadian Municipalities",
+   "aliases": [
+    "f c m"
+   ]
+  },
+  {
+   "term": "UBCM",
+   "expansion": "Union of British Columbia Municipalities",
+   "aliases": [
+    "u b c m"
+   ]
+  },
+  {
+   "term": "SUMA",
+   "expansion": "Saskatchewan Urban Municipalities Association",
+   "aliases": [
+    "sue ma"
+   ]
+  },
+  {
+   "term": "SARM",
+   "expansion": "Saskatchewan Association of Rural Municipalities",
+   "aliases": [
+    "s a r m"
+   ]
+  },
+  {
+   "term": "AMO",
+   "expansion": "Association of Municipalities of Ontario",
+   "aliases": [
+    "a m o"
+   ]
+  },
+  {
+   "term": "Anishinaabe",
+   "expansion": "Indigenous nation named in land acknowledgements",
+   "aliases": [
+    "anishinabe",
+    "anishinaabi"
+   ]
+  },
+  {
+   "term": "Oji-Cree",
+   "expansion": "Indigenous nation named in land acknowledgements"
+  },
+  {
+   "term": "Dakota",
+   "expansion": "Indigenous nation named in land acknowledgements"
+  },
+  {
+   "term": "Dene",
+   "expansion": "Indigenous nation named in land acknowledgements",
+   "aliases": [
+    "denay",
+    "dennay"
+   ]
+  },
+  {
+   "term": "Métis",
+   "expansion": "Indigenous people of Canada"
+  },
+  {
+   "term": "Red River Métis",
+   "expansion": "Indigenous people of the Red River region"
+  }
+ ]
+}
