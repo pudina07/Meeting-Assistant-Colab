@@ -45,6 +45,10 @@ Our Streamlit web app (`app.py`) provides an interactive interface to inspect ev
 **Speaker Analytics:** Breakdown of speaker times and identified names.
 ![Speakers](image_d3bbfc.png)
 
+## Research Reference
+ASR Error Correction using Large Language Models by Rao Ma, Mengjie Qian, Mark Gales and Kate Knill. 
+(The pdf of the paper has been attached in the repo itself)
+
 ## 🧠 Core Philosophy
 
 We designed this architecture around three non-negotiable rules:
