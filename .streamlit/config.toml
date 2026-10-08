@@ -1,0 +1,10 @@
+# Streamlit reads this file from the folder you run `streamlit run app.py` in.
+[server]
+# Default is 200 MB, which rejects e.g. a 25-minute uncompressed WAV (~260 MB).
+# Value is in megabytes. WhisperX windows long audio itself; nothing is uploaded to any speech API.
+maxUploadSize = 2048
+# st.audio / results stay well below this, but allow headroom for large session payloads.
+maxMessageSize = 1024
+
+[browser]
+gatherUsageStats = false
