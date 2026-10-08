@@ -1,0 +1,10 @@
+# Your own terms. One per line. Lines starting with # are ignored.
+# Every term here is always active (no domain detection needed).
+#
+#   Term                                   -> just spell it correctly in the glossary
+#   Term | alias one; alias two | note     -> also list how the speech recogniser tends to mishear it
+#   alias -> Term                          -> shorthand for a single known mishearing
+#
+# Examples (delete the leading # to use them):
+# Springfield Heights | spring field heights | neighbourhood name
+# cooper netties -> Kubernetes
