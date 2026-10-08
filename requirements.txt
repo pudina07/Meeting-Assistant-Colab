@@ -1,0 +1,22 @@
+# ---------------------------------------------------------------------------------------------
+# Install in a FRESH virtual environment (Python 3.10 - 3.13). See README.md for the exact steps.
+# ---------------------------------------------------------------------------------------------
+
+# core
+openai>=1.40          # talks to OpenRouter (Qwen2.5-7B-Instruct)
+pydantic>=2.5
+python-dotenv>=1.0
+streamlit>=1.37
+
+# Stage 1 + 2: WhisperX = faster-whisper transcription + wav2vec2 word alignment + speaker diarization.
+# Runs locally. Brings in torch 2.8, torchaudio, ctranslate2, faster-whisper and pyannote-audio >= 4.
+# (3.8.2 / 3.8.3 were yanked on PyPI; 3.8.4 and newer are fine.)
+whisperx>=3.8.4
+
+# domain-RAG - the pipeline degrades gracefully without them
+rapidfuzz>=3.0        # fast fuzzy / phonetic matching of heard-vs-glossary terms
+jellyfish>=1.0        # Metaphone phonetic keys ("cooper netties" ~ "Kubernetes")
+
+# optional: keyphrase extraction (adds sentence-transformers + a ~90 MB model). Skip on a weak PC;
+# the app simply falls back to its built-in keyphrase extractor.
+# keybert>=0.8
