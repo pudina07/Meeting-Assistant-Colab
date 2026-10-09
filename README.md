@@ -28,22 +28,22 @@ Check out our working prototype to see the pipeline in real-time!
 Our Streamlit web app (`app.py`) provides an interactive interface to inspect every stage of the pipeline.
 
 **Raw Transcript View:** The raw WhisperX output with speaker labels.
-![Raw Transcript](image_d3b7db.png)
+![Raw Transcript](raw_transcript.png)
 
 **Refined Transcript with Diffs:** See exactly what grammar or domain terms the system corrected.
-![Refined Transcript](image_d3b819.png)
+![Refined Transcript](refined_transcript.png)
 
 **Domain Context & Briefing:** View the active dictionaries and phonetic matches.
-![Domain Context](image_d3bae5.png)
+![Domain Context](glossary.png)
 
 **Action Items with Confidence:** Every task is assigned a confidence tier and clickable timestamp.
-![Action Items](image_d3bb67.png)
+![Action Items](action_items.png)
 
 **Extracted Minutes & Decisions:** Beautifully formatted key decisions, completely grounded in audio quotes.
-![Meeting Minutes](image_d3bbbe.png)
+![Meeting Minutes](decisions.png)
 
 **Speaker Analytics:** Breakdown of speaker times and identified names.
-![Speakers](image_d3bbfc.png)
+![Speakers](speakers.png)
 
 ## Research References
 ASR Error Correction using Large Language Models by Rao Ma, Mengjie Qian, Mark Gales and Kate Knill. 
