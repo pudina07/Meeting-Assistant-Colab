@@ -13,7 +13,7 @@ To run this project, follow these simple steps:
 1. Open the `colab_run.ipynb` Python notebook in Google Colab.
 2. Set the runtime hardware accelerator to **T4 GPU**.
 3. Execute cells 1 through 6 sequentially.
-4. At **step 4**, you can either use your own API tokens for Hugging Face and OpenRouter, or use mine by accessing them through this [Drive link](https://drive.google.com/file/d/1LJVLzZsj2QAkZQ4P4nOocKR88tg0ZLCL/view?usp=sharing).
+4. At **step 4**, you can use your own API tokens for Hugging Face and OpenRouter
 5. Finally, click on the URL provided in the output after cell 6 to launch and interact with the prototype.
 
 ## 🎥 See it in Action
